@@ -4,4 +4,4 @@ for number in list_1:
     if number > maxi:
         maxi = number
 
-print(max)
+print(maxi)
